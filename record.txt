@@ -1,0 +1,16 @@
+Human VS Human
+Regret STEP28
+Human VS Human
+Human VS Computer
+HUM: (6, 6)
+COM: (7, 6)
+HUM: (7, 7)
+COM: (5, 5)
+HUM: (8, 7)
+COM: (6, 7)
+HUM: (8, 8)
+COM: (5, 8)
+HUM: (7, 10)
+COM: (8, 5)
+HUM: (0, 0)
+COM: (4, 9)
